@@ -62,6 +62,30 @@ If your account was hardware banned, you may need a new device.
 
 Some bans are tied to more than just IP and MAC addresses.
 
+
+![image](https://github.com/user-attachments/assets/528a9ce3-4778-4ddf-9858-42f54f50891d)
+
+![image](https://github.com/user-attachments/assets/ed3c8f9e-2426-4647-9979-8a398c93a870)
+
+![image](https://github.com/user-attachments/assets/b3a70a88-b547-457f-9883-c5fa40622e82)
+
+![image](https://github.com/user-attachments/assets/256951d3-3d66-49c6-adaf-4db974758972)
+
+![image](https://github.com/user-attachments/assets/f5711696-9c42-4e33-847d-6124eb914fd1)
+
+![image](https://github.com/user-attachments/assets/288d15db-e697-406a-8214-4fec9cbf91f6)
+
+![image](https://github.com/user-attachments/assets/7edb6bee-8c65-4ac0-8335-8012ed62e4e1)
+
+
+
+
+
+
+
+
+
+
 If you repeatedly get banned, Roblox may be tracking more device identifiers.
 
 Enjoy playing again! 🎮
