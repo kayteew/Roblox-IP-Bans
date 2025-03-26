@@ -48,7 +48,9 @@ If that still doesn’t work, skip it the mac
 
 Open Command Prompt (CMD) as AdministratorType the following command and press Enter:
 
-> ipconfig /release
+> ipconfig /flushdns
+
+
 > ipconfig /renew
 
 7️⃣ Restart Your Router For 10 Min if you can
