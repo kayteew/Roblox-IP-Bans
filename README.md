@@ -48,7 +48,15 @@ If that still doesn’t work, skip it the mac
 
 Open Command Prompt (CMD) as AdministratorType the following command and press Enter:
 
+> ipconfig /release
 > ipconfig /renew
+
+7️⃣ Restart Your Router For 10 Min if you can
+
+Restart Your Router `(Dynamic IP)`
+Many ISPs assign dynamic IPs, so `turning off your router for 5-10 minutes to a few hours may give you a new one.`
+
+If that doesn’t work, try leaving it off overnight.
 
 🎉 Done!
 
