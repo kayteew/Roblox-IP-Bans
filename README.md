@@ -50,7 +50,6 @@ Open Command Prompt (CMD) as AdministratorType the following command and press E
 
 > ipconfig /flushdns
 
-
 > ipconfig /renew
 
 7️⃣ Restart Your Router For 10 Min if you can
